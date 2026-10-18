@@ -22,7 +22,7 @@ The browser dashboard stores its entries in that browser's local storage. Export
 
 ## Get the Windows desktop app
 
-The portable desktop app is distributed separately from this source repository. On the Zenith website, open **Download** and choose **Instant download**.
+[Download the latest Windows app ZIP from GitHub Releases](https://github.com/Fathirv1/Zenith/releases/latest/download/zenith-windows-portable.zip).
 
 1. Extract the downloaded ZIP.
 2. Open the extracted folder and run **Zenith.exe**.
@@ -44,7 +44,7 @@ This repository contains the dashboard source files at its root.
 
 4. Visit [http://localhost:8080](http://localhost:8080).
 
-You can also deploy the files in the repository root to a static host such as Cloudflare Pages or GitHub Pages.
+You can also deploy the files in the repository root to a static host such as Cloudflare Pages or GitHub Pages. The large desktop ZIP is hosted separately as a GitHub Release asset.
 
 ## Project files
 
